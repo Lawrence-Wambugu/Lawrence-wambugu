@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋🏾 I'm Lawrence Wambugu
+A Full-Stack Developer
 
 <!--
 **Lawrence-Wambugu/Lawrence-wambugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
